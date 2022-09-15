@@ -7,4 +7,4 @@ The files are the following:
 * 2020-Lv-JB020660
 * 2021-Dorfman-Minerals
 * 2021-Lv-NatComm
-* Bulding Blocks 
+* Bulding Blocks - This file corresponds to a workshop of the Long-Range Planning for High-Pressure Geosciences Workshop
